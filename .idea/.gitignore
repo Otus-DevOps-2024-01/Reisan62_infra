@@ -8,4 +8,4 @@
 /dataSources.local.xml
 
 # Packer
-variables.json
+/packer/variables.json
