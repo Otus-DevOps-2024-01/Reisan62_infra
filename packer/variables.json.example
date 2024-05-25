@@ -1,6 +1,6 @@
 {
   "folder_id": "b1gfvuiosdj123ui9s8",
   "source_image_family": "debian-lts",
-  "service_account_key_file": "~/key.json",
+  "service_account_key_file": "packer/key.json",
   "ssh_username": "ururu"
 }
